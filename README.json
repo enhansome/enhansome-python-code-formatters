@@ -1,0 +1,816 @@
+{
+  "items": [
+    {
+      "description": "Formatters that take care of all your code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ruff",
+          "description": "fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T21:24:50Z",
+            "owner": "astral-sh",
+            "repo": "ruff",
+            "stars": 49188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "black",
+          "description": "uncompromising Python code formatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:24:42Z",
+            "owner": "psf",
+            "repo": "black",
+            "stars": 41800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yapf",
+          "description": "yet another Python code formatter from Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T04:22:21Z",
+            "owner": "google",
+            "repo": "yapf",
+            "stars": 13979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autopep8",
+          "description": "format Python code to conform to the PEP 8 style guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T12:23:40Z",
+            "owner": "hhatto",
+            "repo": "autopep8",
+            "stars": 4659
+          }
+        }
+      ],
+      "title": "All-in formatters"
+    },
+    {
+      "description": "Formatters that do only one job and do it well.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyment",
+          "description": "formats and generates docstrings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-18T19:30:22Z",
+            "owner": "dadadel",
+            "repo": "pyment",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flynt",
+          "description": "converts old string literal formatting to f-strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T09:50:02Z",
+            "owner": "ikamensh",
+            "repo": "flynt",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docformatter",
+          "description": "formats docstrings to follow PEP 257.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T00:47:02Z",
+            "owner": "PyCQA",
+            "repo": "docformatter",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssort",
+          "description": "sorts and groups classes, functions, and methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T12:06:10Z",
+            "owner": "bwhmather",
+            "repo": "ssort",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "add-trailing-comma",
+          "description": "adds trailing commas to calls and literals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T12:45:07Z",
+            "owner": "asottile",
+            "repo": "add-trailing-comma",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eradicate",
+          "description": "removes commented-out code from Python files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T07:32:15Z",
+            "owner": "PyCQA",
+            "repo": "eradicate",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teyit",
+          "description": "formats unittest assertions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-29T13:39:34Z",
+            "owner": "isidentical",
+            "repo": "teyit",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unify",
+          "description": "modifies strings to all use the same quote where possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-04T21:06:04Z",
+            "owner": "myint",
+            "repo": "unify",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kwonly-transformer",
+          "description": "Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T11:18:57Z",
+            "owner": "Kludex",
+            "repo": "kwonly-transformer",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pydocstringformatter",
+          "description": "Automatically format your Python docstrings to conform with PEP 8 and PEP 257.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:49:57Z",
+            "owner": "DanielNoord",
+            "repo": "pydocstringformatter",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "no-optional",
+          "description": "Replace by .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T18:24:26Z",
+            "owner": "Kludex",
+            "repo": "no-optional",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docstrfmt",
+          "description": "a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:12:38Z",
+            "owner": "LilSpazJoekp",
+            "repo": "docstrfmt",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decrapify",
+          "description": "some scripts that use pybowler.io for refactoring Python code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:45:06Z",
+            "owner": "craigds",
+            "repo": "decrapify",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formate",
+          "description": "a wrapper around and with a few custom rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T22:02:48Z",
+            "owner": "python-formate",
+            "repo": "formate",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fix8",
+          "description": "fixes some Python linting issues found by Flake8.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-17T18:47:44Z",
+            "owner": "PeterJCLaw",
+            "repo": "fix8",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tornado Async Transformer",
+          "description": "A libcst transformer for updating tornado syntax to python3.5+ native /.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-11T21:39:19Z",
+            "owner": "zhammer",
+            "repo": "tornado-async-transformer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "UNIX-way formatters"
+    },
+    {
+      "description": "Formatters for import statements.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "isort",
+          "description": "sorts imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:38:04Z",
+            "owner": "PyCQA",
+            "repo": "isort",
+            "stars": 6949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoflake",
+          "description": "removes unused imports and unused variables as reported by pyflakes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T05:52:27Z",
+            "owner": "PyCQA",
+            "repo": "autoflake",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reorder-python-imports",
+          "description": "reorders imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T12:44:26Z",
+            "owner": "asottile",
+            "repo": "reorder-python-imports",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pycln",
+          "description": "removes unused imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T20:06:19Z",
+            "owner": "hadialqattan",
+            "repo": "pycln",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unimport",
+          "description": "removes unused imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T15:33:41Z",
+            "owner": "hakancelikdev",
+            "repo": "unimport",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "usort",
+          "description": "Safe, minimal import sorting for Python projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-01T14:23:06Z",
+            "owner": "facebook",
+            "repo": "usort",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "removestar",
+          "description": "replaces in Python files with explicit imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T08:53:47Z",
+            "owner": "asmeurer",
+            "repo": "removestar",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyall",
+          "description": "keeps the list always up to date.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T10:17:49Z",
+            "owner": "hakancelikdev",
+            "repo": "unexport",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Imports formatters"
+    },
+    {
+      "description": "Tools to upgrade to newer versions of Python or a framework.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyupgrade",
+          "description": "upgrades syntax for newer versions of the language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:08:14Z",
+            "owner": "asottile",
+            "repo": "pyupgrade",
+            "stars": 4112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-upgrade",
+          "description": "upgrades Django projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:08:31Z",
+            "owner": "adamchainz",
+            "repo": "django-upgrade",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-codemod",
+          "description": "upgrades Django projects to newer version of the framework by automatically fixing deprecations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:17:38Z",
+            "owner": "browniebroke",
+            "repo": "django-codemod",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "com2ann",
+          "description": "translates type comments to type annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-02T23:03:18Z",
+            "owner": "ilevkivskyi",
+            "repo": "com2ann",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-walrus",
+          "description": "automatically use the walrus operator where possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:17:27Z",
+            "owner": "MarcoGorelli",
+            "repo": "auto-walrus",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Upgrading tools"
+    },
+    {
+      "description": "Wrappers for existing code formatters to make them more accessible.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nbQA",
+          "description": "run , , , , , and more on Jupyter Notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:32:58Z",
+            "owner": "nbQA-dev",
+            "repo": "nbQA",
+            "stars": 1203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jupyterlab-code-formatter",
+          "description": "code formatter for JupyterLab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T07:11:43Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyterlab_code_formatter",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blacken-docs",
+          "description": "runs on python code blocks in documentation files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:38:23Z",
+            "owner": "adamchainz",
+            "repo": "blacken-docs",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shed",
+          "description": "wrapper around , , , , , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-05T18:57:57Z",
+            "owner": "Zac-HD",
+            "repo": "shed",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdsf",
+          "description": "run python formatters on markdown code blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T14:46:42Z",
+            "owner": "hougesen",
+            "repo": "mdsf",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyformat",
+          "description": "wrapper around , , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-01T00:20:53Z",
+            "owner": "myint",
+            "repo": "pyformat",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "black-macchiato",
+          "description": "runs on parts of the code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-26T14:24:30Z",
+            "owner": "wbolster",
+            "repo": "black-macchiato",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gray",
+          "description": "wrapper around , , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-12T11:26:45Z",
+            "owner": "dizballanze",
+            "repo": "gray",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formate-black",
+          "description": "integrates with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T21:57:21Z",
+            "owner": "python-formate",
+            "repo": "formate-black",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brunette",
+          "description": "wrapper around with improvements.",
+          "children": []
+        }
+      ],
+      "title": "Improvements and wrappers"
+    },
+    {
+      "description": "If you need to write your own formatter, these are libraries for you.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "semgrep",
+          "description": "like grep but for code. Supports --autofix flag for simple replacement of matched code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-13T16:49:21Z",
+            "owner": "semgrep",
+            "repo": "semgrep",
+            "stars": 16208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "comby",
+          "description": "Comby is a tool for searching and changing code structure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-06-08T07:27:09Z",
+            "owner": "comby-tools",
+            "repo": "comby",
+            "stars": 2668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rope",
+          "description": "refactoring library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:20:17Z",
+            "owner": "python-rope",
+            "repo": "rope",
+            "stars": 2232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcst",
+          "description": "parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T05:22:09Z",
+            "owner": "Instagram",
+            "repo": "LibCST",
+            "stars": 1935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bowler",
+          "description": "safe code refactoring for modern Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-21T03:38:05Z",
+            "owner": "facebookincubator",
+            "repo": "Bowler",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refactor",
+          "description": "AST-based fragmental source code refactoring toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-30T17:03:25Z",
+            "owner": "isidentical",
+            "repo": "refactor",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "importlab",
+          "description": "A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-03T08:56:10Z",
+            "owner": "google",
+            "repo": "importlab",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "massedit",
+          "description": "edit text files with Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-21T21:50:29Z",
+            "owner": "elmotec",
+            "repo": "massedit",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autotransform",
+          "description": "framework for large-scale code modification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-29T01:01:53Z",
+            "owner": "nathro",
+            "repo": "AutoTransform",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fissix",
+          "description": "backport of lib2to3, with enhancements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T06:12:54Z",
+            "owner": "amyreese",
+            "repo": "fissix",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Libraries and refactoring"
+    },
+    {
+      "description": "This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-python-typing",
+          "description": "tools to generate type annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T06:03:10Z",
+            "owner": "typeddjango",
+            "repo": "awesome-python-typing",
+            "stars": 1976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-python-testing",
+          "description": "tools to generate tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T16:42:31Z",
+            "owner": "cleder",
+            "repo": "awesome-python-testing",
+            "stars": 304
+          }
+        }
+      ],
+      "title": "Code generators"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:28:03.168Z",
+    "original_repository": "life4/awesome-python-code-formatters",
+    "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
+    "enhanced_repository": "enhansome/enhansome-python-code-formatters",
+    "enhanced_repository_description": null,
+    "title": "Awesome Python Code Formatters with stars"
+  }
+}
