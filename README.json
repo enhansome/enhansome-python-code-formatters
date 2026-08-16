@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T20:56:11Z",
+            "last_commit": "2026-08-16T20:26:56Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49213
+            "stars": 49227
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T21:24:42Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41807
+            "stars": 41806
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T16:14:28Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13981
+            "stars": 13980
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-20T12:23:40Z",
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4659
+            "stars": 4660
           }
         }
       ],
@@ -303,7 +303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T19:38:04Z",
+            "last_commit": "2026-08-16T12:24:25Z",
             "owner": "PyCQA",
             "repo": "isort",
             "stars": 6949
@@ -421,10 +421,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:41:26Z",
+            "last_commit": "2026-08-16T18:05:38Z",
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4113
+            "stars": 4112
           }
         },
         {
@@ -435,7 +435,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:08:31Z",
+            "last_commit": "2026-08-16T09:17:37Z",
             "owner": "adamchainz",
             "repo": "django-upgrade",
             "stars": 1228
@@ -638,7 +638,7 @@
             "last_commit": "2026-08-14T17:24:23Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16235
+            "stars": 16243
           }
         },
         {
@@ -663,7 +663,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T11:20:17Z",
+            "last_commit": "2026-08-16T15:08:33Z",
             "owner": "python-rope",
             "repo": "rope",
             "stars": 2232
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:58:23.312Z",
+    "last_updated": "2026-08-16T20:57:42.791Z",
     "original_repository": "life4/awesome-python-code-formatters",
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
     "enhanced_repository": "enhansome/enhansome-python-code-formatters",
