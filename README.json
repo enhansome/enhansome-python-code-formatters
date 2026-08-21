@@ -12,10 +12,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:56:01Z",
+            "last_commit": "2026-08-21T20:57:54Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49271
+            "stars": 49272
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 32476524,
             "language": "Python",
-            "last_commit": "2026-08-14T16:14:28Z",
+            "last_commit": "2026-08-21T16:05:20Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13979
+            "stars": 13978
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-20T12:23:40Z",
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4660
+            "stars": 4661
           }
         }
       ],
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-10T00:47:02Z",
             "owner": "PyCQA",
             "repo": "docformatter",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-18T20:50:04Z",
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6947
+            "stars": 6946
           }
         },
         {
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 83462592,
             "language": "Python",
-            "last_commit": "2026-08-20T20:59:02Z",
+            "last_commit": "2026-08-21T20:08:09Z",
             "owner": "asottile",
             "repo": "pyupgrade",
             "stars": 4114
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 227803815,
             "language": "OCaml",
-            "last_commit": "2026-08-20T18:29:39Z",
+            "last_commit": "2026-08-21T00:08:59Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16319
+            "stars": 16340
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-06-19T06:03:10Z",
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1977
+            "stars": 1978
           }
         },
         {
@@ -843,10 +843,10 @@
             "archived": false,
             "id": 347465284,
             "language": null,
-            "last_commit": "2026-08-17T16:43:07Z",
+            "last_commit": "2026-08-21T17:16:46Z",
             "owner": "cleder",
             "repo": "awesome-python-testing",
-            "stars": 304
+            "stars": 305
           }
         }
       ],
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:03:13.424Z",
+    "last_updated": "2026-08-21T20:59:20.111Z",
     "original_repository": "life4/awesome-python-code-formatters",
     "original_repository_id": 202137421,
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
