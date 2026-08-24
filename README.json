@@ -12,10 +12,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-23T20:51:10Z",
+            "last_commit": "2026-08-24T14:27:26Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49288
+            "stars": 49299
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41816
+            "stars": 41815
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T16:05:20Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13979
+            "stars": 13980
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-18T20:50:04Z",
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6947
+            "stars": 6948
           }
         },
         {
@@ -480,10 +480,10 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-22T22:58:05Z",
+            "last_commit": "2026-08-24T06:51:16Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 227803815,
             "language": "OCaml",
-            "last_commit": "2026-08-21T00:08:59Z",
+            "last_commit": "2026-08-24T00:07:49Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16364
+            "stars": 16372
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-23T16:50:29Z",
             "owner": "cleder",
             "repo": "awesome-python-testing",
-            "stars": 305
+            "stars": 306
           }
         }
       ],
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:58:21.380Z",
+    "last_updated": "2026-08-24T14:28:25.380Z",
     "original_repository": "life4/awesome-python-code-formatters",
     "original_repository_id": 202137421,
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",

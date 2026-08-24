@@ -6,9 +6,9 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,288 | 🐛 2,143 | 🌐 Rust | 📅 2026-08-23: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
-* [black](https://github.com/python/black) ⭐ 41,816 | 🐛 302 | 🌐 Python | 📅 2026-08-20: uncompromising Python code formatter.
-* [yapf](https://github.com/google/yapf) ⭐ 13,979 | 🐛 419 | 🌐 Python | 📅 2026-08-21: yet another Python code formatter from Google.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,299 | 🐛 2,141 | 🌐 Rust | 📅 2026-08-24: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [black](https://github.com/python/black) ⭐ 41,815 | 🐛 303 | 🌐 Python | 📅 2026-08-20: uncompromising Python code formatter.
+* [yapf](https://github.com/google/yapf) ⭐ 13,980 | 🐛 419 | 🌐 Python | 📅 2026-08-21: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,661 | 🐛 136 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
 ## UNIX-way formatters
@@ -37,8 +37,8 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-* [isort](https://github.com/timothycrosley/isort) ⭐ 6,947 | 🐛 88 | 🌐 Python | 📅 2026-08-18: sorts imports.
-* [autoflake](https://github.com/myint/autoflake) ⭐ 952 | 🐛 41 | 🌐 Python | 📅 2026-08-23: removes unused imports and unused variables as reported by pyflakes.
+* [isort](https://github.com/timothycrosley/isort) ⭐ 6,948 | 🐛 87 | 🌐 Python | 📅 2026-08-18: sorts imports.
+* [autoflake](https://github.com/myint/autoflake) ⭐ 952 | 🐛 42 | 🌐 Python | 📅 2026-08-23: removes unused imports and unused variables as reported by pyflakes.
 * [reorder-python-imports](https://github.com/asottile/reorder_python_imports) ⭐ 782 | 🐛 1 | 🌐 Python | 📅 2026-08-19: reorders imports.
 * [pycln](https://github.com/hadialqattan/pycln) ⭐ 314 | 🐛 16 | 🌐 Python | 📅 2026-01-13: removes unused imports.
 * [unimport](https://github.com/hakancelik96/unimport) ⭐ 248 | 🐛 1 | 🌐 Python | 📅 2026-06-02: removes unused imports.
@@ -52,7 +52,7 @@ Tools to upgrade to newer versions of Python or a framework.
 
 * [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,113 | 🐛 22 | 🌐 Python | 📅 2026-08-21: upgrades syntax for newer versions of the language.
 * [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,231 | 🐛 10 | 🌐 Python | 📅 2026-08-18: upgrades Django projects.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2026-08-22: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-08-24: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 * [com2ann](https://github.com/ilevkivskyi/com2ann) ⭐ 158 | 🐛 10 | 🌐 Python | 📅 2025-06-02: translates type comments to type annotations.
 * [auto-walrus](https://github.com/MarcoGorelli/auto-walrus) ⭐ 130 | 🐛 4 | 🌐 Python | 📅 2026-08-17: automatically use the walrus operator where possible.
 * [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
@@ -76,7 +76,7 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,364 | 🐛 895 | 🌐 OCaml | 📅 2026-08-21: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,372 | 🐛 897 | 🌐 OCaml | 📅 2026-08-24: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,669 | 🐛 86 | 🌐 OCaml | 📅 2026-06-08: Comby is a tool for searching and changing code structure
 * [rope](https://github.com/python-rope/rope) ⭐ 2,233 | 🐛 141 | 🌐 Python | 📅 2026-08-20: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,938 | 🐛 173 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
@@ -92,8 +92,8 @@ If you need to write your own formatter, these are libraries for you.
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,978 | 🐛 7 | 📅 2026-06-19: tools to generate type annotations.
-* [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 305 | 🐛 0 | 📅 2026-08-23: tools to generate tests.
+* [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 306 | 🐛 0 | 📅 2026-08-23: tools to generate tests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
