@@ -12,10 +12,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-24T20:17:02Z",
+            "last_commit": "2026-08-25T05:58:22Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49303
+            "stars": 49308
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41816
+            "stars": 41814
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-06-18T19:30:22Z",
             "owner": "dadadel",
             "repo": "pyment",
-            "stars": 953
+            "stars": 954
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-21T20:08:09Z",
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4113
+            "stars": 4114
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-08-14T11:15:12Z",
             "owner": "hougesen",
             "repo": "mdsf",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 227803815,
             "language": "OCaml",
-            "last_commit": "2026-08-24T00:07:49Z",
+            "last_commit": "2026-08-25T00:09:16Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16377
+            "stars": 16385
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-11T05:22:09Z",
             "owner": "Instagram",
             "repo": "LibCST",
-            "stars": 1938
+            "stars": 1939
           }
         },
         {
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:04:30.194Z",
+    "last_updated": "2026-08-25T06:19:44.524Z",
     "original_repository": "life4/awesome-python-code-formatters",
     "original_repository_id": 202137421,
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
