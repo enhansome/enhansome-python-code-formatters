@@ -12,10 +12,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:58:22Z",
+            "last_commit": "2026-08-25T21:00:59Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49308
+            "stars": 49319
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-20T12:23:40Z",
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4661
+            "stars": 4660
           }
         }
       ],
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-18T20:50:04Z",
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6948
+            "stars": 6947
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-01-13T20:06:19Z",
             "owner": "hadialqattan",
             "repo": "pycln",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -450,10 +450,10 @@
             "archived": false,
             "id": 83462592,
             "language": "Python",
-            "last_commit": "2026-08-21T20:08:09Z",
+            "last_commit": "2026-08-25T19:30:18Z",
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4114
+            "stars": 4113
           }
         },
         {
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 227803815,
             "language": "OCaml",
-            "last_commit": "2026-08-25T00:09:16Z",
+            "last_commit": "2026-08-25T20:39:35Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16385
+            "stars": 16397
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-06-08T07:27:09Z",
             "owner": "comby-tools",
             "repo": "comby",
-            "stars": 2669
+            "stars": 2670
           }
         },
         {
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 14823414,
             "language": "Python",
-            "last_commit": "2026-08-20T19:03:50Z",
+            "last_commit": "2026-08-25T17:40:46Z",
             "owner": "python-rope",
             "repo": "rope",
             "stars": 2233
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:44.524Z",
+    "last_updated": "2026-08-25T21:01:56.978Z",
     "original_repository": "life4/awesome-python-code-formatters",
     "original_repository_id": 202137421,
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
