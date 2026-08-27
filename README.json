@@ -12,10 +12,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-26T23:55:02Z",
+            "last_commit": "2026-08-27T11:55:51Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49342
+            "stars": 49351
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41816
+            "stars": 41818
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T16:05:20Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13980
+            "stars": 13981
           }
         },
         {
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 12550138,
             "language": "Python",
-            "last_commit": "2026-08-26T21:50:45Z",
+            "last_commit": "2026-08-27T10:49:09Z",
             "owner": "PyCQA",
             "repo": "isort",
             "stars": 6947
@@ -402,7 +402,7 @@
             "last_commit": "2026-03-01T14:23:06Z",
             "owner": "facebook",
             "repo": "usort",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -480,7 +480,7 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-26T19:42:41Z",
+            "last_commit": "2026-08-27T01:16:41Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 227803815,
             "language": "OCaml",
-            "last_commit": "2026-08-26T17:08:38Z",
+            "last_commit": "2026-08-27T01:12:52Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16409
+            "stars": 16416
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-06-19T06:03:10Z",
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1980
+            "stars": 1979
           }
         },
         {
@@ -854,9 +854,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:05:15.489Z",
-    "original_repository": "life4/awesome-python-code-formatters",
-    "original_repository_id": 202137421,
+    "last_updated": "2026-08-27T11:59:08.116Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 202137421,
+      "language": "Shell",
+      "last_commit": "2025-02-24T08:23:42Z",
+      "owner": "life4",
+      "repo": "awesome-python-code-formatters",
+      "stars": 387
+    },
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
     "enhanced_repository": "enhansome/enhansome-python-code-formatters",
     "enhanced_repository_description": null,
