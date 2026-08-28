@@ -12,11 +12,12 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:55:51Z",
+            "last_commit": "2026-08-28T02:52:09Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49351
-          }
+            "stars": 49362
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "psf",
             "repo": "black",
             "stars": 41818
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "google",
             "repo": "yapf",
             "stars": 13981
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "hhatto",
             "repo": "autopep8",
             "stars": 4660
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "All-in formatters"
@@ -82,7 +86,8 @@
             "owner": "dadadel",
             "repo": "pyment",
             "stars": 954
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ikamensh",
             "repo": "flynt",
             "stars": 732
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "PyCQA",
             "repo": "docformatter",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "bwhmather",
             "repo": "ssort",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-17T23:35:51Z",
             "owner": "asottile",
             "repo": "add-trailing-comma",
-            "stars": 372
-          }
+            "stars": 373
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "PyCQA",
             "repo": "eradicate",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "isidentical",
             "repo": "teyit",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "myint",
             "repo": "unify",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Kludex",
             "repo": "kwonly-transformer",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "DanielNoord",
             "repo": "pydocstringformatter",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Kludex",
             "repo": "no-optional",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "LilSpazJoekp",
             "repo": "docstrfmt",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "craigds",
             "repo": "decrapify",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "python-formate",
             "repo": "formate",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "PeterJCLaw",
             "repo": "fix8",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "zhammer",
             "repo": "tornado-async-transformer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "UNIX-way formatters"
@@ -324,11 +344,12 @@
             "archived": false,
             "id": 12550138,
             "language": "Python",
-            "last_commit": "2026-08-27T10:49:09Z",
+            "last_commit": "2026-08-27T20:30:57Z",
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6947
-          }
+            "stars": 6948
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "PyCQA",
             "repo": "autoflake",
             "stars": 952
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "asottile",
             "repo": "reorder-python-imports",
             "stars": 782
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "hadialqattan",
             "repo": "pycln",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "hakancelikdev",
             "repo": "unimport",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "facebook",
             "repo": "usort",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "asmeurer",
             "repo": "removestar",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "hakancelikdev",
             "repo": "unexport",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "Imports formatters"
@@ -454,7 +482,8 @@
             "owner": "asottile",
             "repo": "pyupgrade",
             "stars": 4113
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -468,8 +497,9 @@
             "last_commit": "2026-08-18T20:38:01Z",
             "owner": "adamchainz",
             "repo": "django-upgrade",
-            "stars": 1232
-          }
+            "stars": 1233
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -480,11 +510,12 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-27T01:16:41Z",
+            "last_commit": "2026-08-28T03:29:37Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "ilevkivskyi",
             "repo": "com2ann",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "MarcoGorelli",
             "repo": "auto-walrus",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "Upgrading tools"
@@ -535,7 +568,8 @@
             "owner": "nbQA-dev",
             "repo": "nbQA",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
             "stars": 907
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "adamchainz",
             "repo": "blacken-docs",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "Zac-HD",
             "repo": "shed",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "hougesen",
             "repo": "mdsf",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "myint",
             "repo": "pyformat",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "wbolster",
             "repo": "black-macchiato",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "dizballanze",
             "repo": "gray",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -655,7 +696,8 @@
             "owner": "python-formate",
             "repo": "formate-black",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "Improvements and wrappers"
@@ -672,11 +714,12 @@
             "archived": false,
             "id": 227803815,
             "language": "OCaml",
-            "last_commit": "2026-08-27T01:12:52Z",
+            "last_commit": "2026-08-28T02:34:55Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16416
-          }
+            "stars": 16420
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "comby-tools",
             "repo": "comby",
             "stars": 2670
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "python-rope",
             "repo": "rope",
             "stars": 2234
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "Instagram",
             "repo": "LibCST",
             "stars": 1939
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "facebookincubator",
             "repo": "Bowler",
             "stars": 1610
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "isidentical",
             "repo": "refactor",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "google",
             "repo": "importlab",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "elmotec",
             "repo": "massedit",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "nathro",
             "repo": "AutoTransform",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -811,7 +862,8 @@
             "owner": "amyreese",
             "repo": "fissix",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "Libraries and refactoring"
@@ -831,8 +883,9 @@
             "last_commit": "2026-06-19T06:03:10Z",
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1979
-          }
+            "stars": 1980
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         },
         {
           "node_type": "item",
@@ -847,14 +900,15 @@
             "owner": "cleder",
             "repo": "awesome-python-testing",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T04:28:31.464Z"
         }
       ],
       "title": "Code generators"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:08.116Z",
+    "last_updated": "2026-08-28T04:28:31.464Z",
     "original_repository_info": {
       "archived": false,
       "id": 202137421,
