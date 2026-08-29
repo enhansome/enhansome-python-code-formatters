@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely fast Python linter and code formatter, written in Rust.",
+            "homepage": "https://docs.astral.sh/ruff",
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-29T02:12:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:39:17Z",
+            "open_issues": 2149,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49375
+            "stars": 49376,
+            "topics": [
+              "linter",
+              "pep8",
+              "python",
+              "python3",
+              "ruff",
+              "rust",
+              "rustpython",
+              "static-analysis",
+              "static-code-analysis",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -26,12 +43,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The uncompromising Python code formatter",
+            "homepage": "https://black.readthedocs.io/en/stable/",
             "id": 125266328,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:01:16Z",
+            "open_issues": 303,
             "owner": "psf",
             "repo": "black",
-            "stars": 41820
+            "stars": 41820,
+            "topics": [
+              "autopep8",
+              "code",
+              "codeformatter",
+              "formatter",
+              "gofmt",
+              "hacktoberfest",
+              "pre-commit-hook",
+              "python",
+              "yapf"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -42,12 +74,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A formatter for Python files",
+            "homepage": null,
             "id": 32476524,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:58:01Z",
+            "open_issues": 417,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13982
+            "stars": 13982,
+            "topics": [
+              "formatter",
+              "google",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -58,12 +99,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that automatically formats Python code to conform to the PEP 8 style guide.",
+            "homepage": "https://pypi.org/project/autopep8/",
             "id": 1206729,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T12:23:40Z",
+            "open_issues": 135,
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4660
+            "stars": 4660,
+            "topics": [
+              "codeformatter",
+              "formatter",
+              "pep8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -80,12 +131,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Format and convert Python docstrings and generates patches",
+            "homepage": null,
             "id": 15688938,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-18T19:30:22Z",
+            "open_issues": 42,
             "owner": "dadadel",
             "repo": "pyment",
-            "stars": 954
+            "stars": 954,
+            "topics": [
+              "developer-tools",
+              "development",
+              "docstrings",
+              "documentation",
+              "epydoc",
+              "google",
+              "numpy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -96,12 +161,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to automatically convert old string literal formatting to f-strings",
+            "homepage": null,
             "id": 174731004,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-19T09:50:02Z",
+            "open_issues": 5,
             "owner": "ikamensh",
             "repo": "flynt",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "linter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -112,12 +185,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formats docstrings to follow PEP 257",
+            "homepage": "https://pypi.python.org/pypi/docformatter",
             "id": 4458025,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T00:47:02Z",
+            "open_issues": 38,
             "owner": "PyCQA",
             "repo": "docformatter",
-            "stars": 598
+            "stars": 598,
+            "topics": [
+              "autoformat",
+              "docstring",
+              "formatter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -128,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for automatically sorting python statements within a module",
+            "homepage": null,
             "id": 349165135,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T12:06:10Z",
+            "open_issues": 23,
             "owner": "bwhmather",
             "repo": "ssort",
-            "stars": 400
+            "stars": 400,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -144,12 +232,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.",
+            "homepage": null,
             "id": 96721073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:35:51Z",
+            "open_issues": 0,
             "owner": "asottile",
             "repo": "add-trailing-comma",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "linter",
+              "pre-commit",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -160,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Removes commented-out code from Python files",
+            "homepage": "https://pypi.python.org/pypi/eradicate",
             "id": 7291811,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-21T07:32:15Z",
+            "open_issues": 8,
             "owner": "PyCQA",
             "repo": "eradicate",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -176,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formatter for your Python unit tests ",
+            "homepage": null,
             "id": 299678416,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-29T13:39:34Z",
+            "open_issues": 11,
             "owner": "isidentical",
             "repo": "teyit",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -192,12 +299,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modifies strings to all use the same quote where possible",
+            "homepage": "https://pypi.python.org/pypi/unify",
             "id": 8990451,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-04T21:06:04Z",
+            "open_issues": 16,
             "owner": "myint",
             "repo": "unify",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "formatter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -208,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We don't like positional args, we like keyword only args! 🎉",
+            "homepage": null,
             "id": 504409277,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T11:18:57Z",
+            "open_issues": 3,
             "owner": "Kludex",
             "repo": "kwonly-transformer",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -224,12 +344,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically format your Python docstrings to conform with PEP 8 and PEP 257",
+            "homepage": null,
             "id": 443615321,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:46:24Z",
+            "open_issues": 15,
             "owner": "DanielNoord",
             "repo": "pydocstringformatter",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "docstrings",
+              "formatter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -240,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replace `Optional[T]` by `Union[T, None]` 👀",
+            "homepage": null,
             "id": 503213018,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T18:24:26Z",
+            "open_issues": 4,
             "owner": "Kludex",
             "repo": "no-optional",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -256,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A formatter for reStructuredText",
+            "homepage": null,
             "id": 303458102,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:59:47Z",
+            "open_issues": 9,
             "owner": "LilSpazJoekp",
             "repo": "docstrfmt",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -272,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Some scripts that use pybowler.io for refactoring Python code",
+            "homepage": null,
             "id": 146127144,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-17T18:45:06Z",
+            "open_issues": 1,
             "owner": "craigds",
             "repo": "decrapify",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -288,12 +432,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python formatting mate.",
+            "homepage": "https://formate.readthedocs.io/en/latest",
             "id": 332897000,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-07T22:02:48Z",
+            "open_issues": 0,
             "owner": "python-formate",
             "repo": "formate",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "formatting",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -304,12 +457,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic fix for Python linting issues found by Flake8",
+            "homepage": null,
             "id": 259103367,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-17T18:47:44Z",
+            "open_issues": 3,
             "owner": "PeterJCLaw",
             "repo": "fix8",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "fixer",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -320,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "libcst transformer that replaces tornado's legacy @gen.coroutine syntax with python3.5+ native async/await",
+            "homepage": "https://tornado-async-transformer.now.sh",
             "id": 227654414,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2019-12-11T21:39:19Z",
+            "open_issues": 0,
             "owner": "zhammer",
             "repo": "tornado-async-transformer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -342,12 +509,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python utility / library to sort imports.",
+            "homepage": "https://isort.readthedocs.io/",
             "id": 12550138,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:30:57Z",
+            "open_issues": 82,
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6948
+            "stars": 6949,
+            "topics": [
+              "auto-formatter",
+              "cleaner",
+              "cli",
+              "formatter",
+              "hacktoberfest",
+              "isort",
+              "linter",
+              "python",
+              "python-utility",
+              "python3",
+              "sorting-imports"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -358,12 +542,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Removes unused imports and unused variables as reported by pyflakes",
+            "homepage": "https://pypi.org/project/autoflake/",
             "id": 7335450,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T02:29:56Z",
+            "open_issues": 43,
             "owner": "PyCQA",
             "repo": "autoflake",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "formatter",
+              "hacktoberfest",
+              "linter",
+              "pyflakes",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -374,12 +569,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rewrites source to reorder python imports",
+            "homepage": null,
             "id": 28693782,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T21:14:12Z",
+            "open_issues": 1,
             "owner": "asottile",
             "repo": "reorder-python-imports",
-            "stars": 782
+            "stars": 782,
+            "topics": [
+              "linter",
+              "pre-commit",
+              "python",
+              "refactoring"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -390,12 +595,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A formatter for finding and removing unused import statements.",
+            "homepage": "https://hadialqattan.github.io/pycln",
             "id": 287483727,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-13T20:06:19Z",
+            "open_issues": 16,
             "owner": "hadialqattan",
             "repo": "pycln",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "cli-app",
+              "cross-platform",
+              "formatters",
+              "linters",
+              "pycln",
+              "pypi-package",
+              "python3",
+              "quality-assurance",
+              "unused-imports"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -406,12 +626,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: The ultimate linter and formatter for removing unused import statements in your code.",
+            "homepage": "https://unimport.hakancelik.dev/",
             "id": 207092013,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T15:33:41Z",
+            "open_issues": 1,
             "owner": "hakancelikdev",
             "repo": "unimport",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "formatter",
+              "import",
+              "linter",
+              "remove",
+              "unused"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -422,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe, minimal import sorting for Python projects.",
+            "homepage": "https://usort.readthedocs.io",
             "id": 235863689,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-01T14:23:06Z",
+            "open_issues": 28,
             "owner": "facebook",
             "repo": "usort",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -438,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to automatically replace 'import *' in Python files with explicit imports",
+            "homepage": "https://www.asmeurer.com/removestar/",
             "id": 197666949,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T08:53:47Z",
+            "open_issues": 13,
             "owner": "asmeurer",
             "repo": "removestar",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -454,12 +695,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":eight_spoked_asterisk: Unexport is a linter that tries to keep the __all __ in your Python modules always up to date.",
+            "homepage": "https://unexport.hakancelik.dev/",
             "id": 340135607,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-23T10:17:49Z",
+            "open_issues": 10,
             "owner": "hakancelikdev",
             "repo": "unexport",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "all",
+              "linter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -476,12 +726,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "homepage": null,
             "id": 83462592,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:30:18Z",
+            "open_issues": 22,
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4112
+            "stars": 4112,
+            "topics": [
+              "linter",
+              "pre-commit",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -492,12 +751,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically upgrade your Django projects.",
+            "homepage": "https://django-upgrade.readthedocs.io/en/latest/",
             "id": 400482050,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:21:53Z",
+            "open_issues": 10,
             "owner": "adamchainz",
             "repo": "django-upgrade",
-            "stars": 1234
+            "stars": 1234,
+            "topics": [
+              "django"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -508,12 +774,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to automatically fix Django deprecations.",
+            "homepage": "https://django-codemod.readthedocs.io",
             "id": 261884067,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:41:27Z",
+            "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
-            "stars": 190
+            "stars": 190,
+            "topics": [
+              "codemod",
+              "django",
+              "libcst",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -524,12 +800,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for translation type comments to type annotations in Python",
+            "homepage": null,
             "id": 67775941,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-02T23:03:18Z",
+            "open_issues": 10,
             "owner": "ilevkivskyi",
             "repo": "com2ann",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "annotations",
+              "python-3-6",
+              "source-to-source",
+              "type-annotations",
+              "type-hints"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -540,12 +827,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically use the awesome walrus operator",
+            "homepage": null,
             "id": 547198126,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:17:07Z",
+            "open_issues": 4,
             "owner": "MarcoGorelli",
             "repo": "auto-walrus",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "formatting",
+              "linting",
+              "python",
+              "walrus-operator"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -562,12 +859,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks",
+            "homepage": "https://nbqa.readthedocs.io/en/latest/index.html",
             "id": 278889378,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:31:20Z",
+            "open_issues": 22,
             "owner": "nbQA-dev",
             "repo": "nbQA",
-            "stars": 1204
+            "stars": 1204,
+            "topics": [
+              "black",
+              "codequality",
+              "doctest",
+              "flake8",
+              "isort",
+              "jupyter-notebook",
+              "lint",
+              "mypy",
+              "pre-commit",
+              "pre-commit-hook",
+              "pylint",
+              "python",
+              "pyupgrade",
+              "ruff",
+              "yapf"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -578,12 +896,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JupyterLab plugin to facilitate invocation of code formatters.",
+            "homepage": "https://jupyterlab-code-formatter.readthedocs.io/",
             "id": 144499900,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T07:11:43Z",
+            "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "autopep8",
+              "black",
+              "code-formatter",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "python",
+              "r",
+              "yapf"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -594,12 +926,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run `black` on python code blocks in documentation files",
+            "homepage": null,
             "id": 135868210,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T22:09:23Z",
+            "open_issues": 15,
             "owner": "adamchainz",
             "repo": "blacken-docs",
-            "stars": 680
+            "stars": 680,
+            "topics": [
+              "black",
+              "docs",
+              "pre-commit"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -610,12 +951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "`shed` canonicalises Python code.  Shed your legacy, stop bikeshedding, and move on.  Black++",
+            "homepage": "https://pypi.org/project/shed/",
             "id": 240695112,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-06-05T18:57:57Z",
+            "open_issues": 7,
             "owner": "Zac-HD",
             "repo": "shed",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -626,12 +972,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Format markdown code blocks using your favorite tools",
+            "homepage": "https://mdsf.mhouge.dk/",
             "id": 759463672,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-14T11:15:12Z",
+            "open_issues": 33,
             "owner": "hougesen",
             "repo": "mdsf",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "cli",
+              "codeblocks",
+              "codeformatter",
+              "command-line",
+              "documentation",
+              "elixir",
+              "formatter",
+              "gleam",
+              "go",
+              "hacktoberfest",
+              "json",
+              "markdown",
+              "md",
+              "pretty-printer",
+              "python",
+              "rust",
+              "typescript",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -642,12 +1012,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formats Python code to follow a consistent style",
+            "homepage": "https://pypi.python.org/pypi/pyformat",
             "id": 8993792,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-01T00:20:53Z",
+            "open_issues": 9,
             "owner": "myint",
             "repo": "pyformat",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "formatter",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -658,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "paints part of your python code black",
+            "homepage": null,
             "id": 169400844,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-26T14:24:30Z",
+            "open_issues": 7,
             "owner": "wbolster",
             "repo": "black-macchiato",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -674,12 +1057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Less uncompromising Python code formatter",
+            "homepage": null,
             "id": 253291864,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-12T11:26:45Z",
+            "open_issues": 5,
             "owner": "dizballanze",
             "repo": "gray",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -690,12 +1078,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use black with formate.",
+            "homepage": null,
             "id": 368146741,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-06T21:57:21Z",
+            "open_issues": 0,
             "owner": "python-formate",
             "repo": "formate-black",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "black",
+              "formate",
+              "formatting",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -712,12 +1111,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+            "homepage": "https://semgrep.dev",
             "id": 227803815,
             "language": "OCaml",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T02:34:55Z",
+            "open_issues": 903,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16433
+            "stars": 16434,
+            "topics": [
+              "c",
+              "go",
+              "java",
+              "javascript",
+              "python",
+              "r2c",
+              "ruby",
+              "sast",
+              "semgrep",
+              "static-analysis",
+              "static-code-analysis",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -728,12 +1145,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A code rewrite tool for structural search and replace that supports ~every language.",
+            "homepage": "https://comby.dev",
             "id": 180236648,
             "language": "OCaml",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-08T07:27:09Z",
+            "open_issues": 86,
             "owner": "comby-tools",
             "repo": "comby",
-            "stars": 2671
+            "stars": 2671,
+            "topics": [
+              "c",
+              "go",
+              "java",
+              "javascript",
+              "linting",
+              "parser-combinators",
+              "parsing",
+              "php",
+              "program-transformation",
+              "python",
+              "reason",
+              "refactoring",
+              "regex",
+              "rewriting",
+              "rust",
+              "search-and-replace",
+              "swift",
+              "syntax",
+              "syntax-transformation",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -744,12 +1187,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a python refactoring library",
+            "homepage": null,
             "id": 14823414,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-25T17:40:46Z",
+            "open_issues": 142,
             "owner": "python-rope",
             "repo": "rope",
-            "stars": 2234
+            "stars": 2234,
+            "topics": [
+              "ast",
+              "python",
+              "refactoring",
+              "refactoring-tools"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -760,12 +1213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree",
+            "homepage": "https://libcst.readthedocs.io/",
             "id": 200896124,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T05:22:09Z",
+            "open_issues": 173,
             "owner": "Instagram",
             "repo": "LibCST",
-            "stars": 1939
+            "stars": 1939,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -776,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Safe code refactoring for modern Python.",
+            "homepage": "https://pybowler.io/",
             "id": 136534335,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-21T03:38:05Z",
+            "open_issues": 64,
             "owner": "facebookincubator",
             "repo": "Bowler",
-            "stars": 1610
+            "stars": 1610,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -792,12 +1255,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AST-based fragmental source code refactoring toolkit for Python",
+            "homepage": "https://refactor.readthedocs.io",
             "id": 388921656,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-30T17:03:25Z",
+            "open_issues": 22,
             "owner": "isidentical",
             "repo": "refactor",
-            "stars": 460
+            "stars": 460,
+            "topics": [
+              "ast",
+              "python",
+              "refactoring"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -808,12 +1280,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library that automatically infers dependencies for Python files",
+            "homepage": null,
             "id": 123326542,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-03T08:56:10Z",
+            "open_issues": 11,
             "owner": "google",
             "repo": "importlab",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -824,12 +1301,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programmatically edit text files with Python. Useful for source to source transformations.",
+            "homepage": "https://pypi.python.org/pypi/massedit/",
             "id": 3687857,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-21T21:50:29Z",
+            "open_issues": 1,
             "owner": "elmotec",
             "repo": "massedit",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "developer-tools",
+              "editor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -840,12 +1325,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoTransform is a framework for large-scale, automated code modification in a production environment.",
+            "homepage": null,
             "id": 443649697,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-29T01:01:53Z",
+            "open_issues": 2,
             "owner": "nathro",
             "repo": "AutoTransform",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "automation",
+              "codemod",
+              "codemods",
+              "developer-tools"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -856,12 +1351,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "backport of lib2to3, with enhancements",
+            "homepage": null,
             "id": 136696040,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T06:12:54Z",
+            "open_issues": 22,
             "owner": "amyreese",
             "repo": "fissix",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "backport",
+              "python",
+              "refactoring",
+              "standard-library"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -878,12 +1383,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+            "homepage": "https://github.com/typeddjango",
             "id": 207661821,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-19T06:03:10Z",
+            "open_issues": 7,
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1980
+            "stars": 1980,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "mypy",
+              "mypy-plugins",
+              "mypy-stubs",
+              "pep484",
+              "pyi",
+              "python",
+              "python-stubs",
+              "python-types"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -894,12 +1415,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of awesome 😎️ Python resources for testing ",
+            "homepage": null,
             "id": 347465284,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-26T17:10:32Z",
+            "open_issues": 2,
             "owner": "cleder",
             "repo": "awesome-python-testing",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "python",
+              "python-testing",
+              "test-runners",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         }
@@ -908,15 +1442,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:41.271Z",
+    "last_updated": "2026-08-29T04:44:42.922Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Python code formatters",
+      "homepage": null,
       "id": 202137421,
       "language": "Shell",
+      "license": "MIT",
       "last_commit": "2025-02-24T08:23:42Z",
+      "open_issues": 2,
       "owner": "life4",
       "repo": "awesome-python-code-formatters",
-      "stars": 387
+      "stars": 387,
+      "topics": [
+        "autopep8",
+        "awesome",
+        "awesome-list",
+        "black",
+        "code-formatter",
+        "formatter",
+        "formatting",
+        "gofmt",
+        "isort",
+        "python",
+        "python3",
+        "pythonic",
+        "qa",
+        "styleguide",
+        "yapf"
+      ]
     },
     "original_repository_sha": "b27582944accd5745911ce0ec23588e36c4ea036",
     "enhanced_repository": "enhansome/enhansome-python-code-formatters",

@@ -6,7 +6,7 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,375 | 🐛 2,149 | 🌐 Rust | 📅 2026-08-29: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,376 | 🐛 2,149 | 🌐 Rust | 📅 2026-08-29: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
 * [black](https://github.com/python/black) ⭐ 41,820 | 🐛 303 | 🌐 Python | 📅 2026-08-20: uncompromising Python code formatter.
 * [yapf](https://github.com/google/yapf) ⭐ 13,982 | 🐛 417 | 🌐 Python | 📅 2026-08-28: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,660 | 🐛 135 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
@@ -37,7 +37,7 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-* [isort](https://github.com/timothycrosley/isort) ⭐ 6,948 | 🐛 82 | 🌐 Python | 📅 2026-08-27: sorts imports.
+* [isort](https://github.com/timothycrosley/isort) ⭐ 6,949 | 🐛 82 | 🌐 Python | 📅 2026-08-27: sorts imports.
 * [autoflake](https://github.com/myint/autoflake) ⭐ 952 | 🐛 43 | 🌐 Python | 📅 2026-08-23: removes unused imports and unused variables as reported by pyflakes.
 * [reorder-python-imports](https://github.com/asottile/reorder_python_imports) ⭐ 782 | 🐛 1 | 🌐 Python | 📅 2026-08-19: reorders imports.
 * [pycln](https://github.com/hadialqattan/pycln) ⭐ 315 | 🐛 16 | 🌐 Python | 📅 2026-01-13: removes unused imports.
@@ -76,7 +76,7 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,433 | 🐛 903 | 🌐 OCaml | 📅 2026-08-28: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,434 | 🐛 903 | 🌐 OCaml | 📅 2026-08-28: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,671 | 🐛 86 | 🌐 OCaml | 📅 2026-06-08: Comby is a tool for searching and changing code structure
 * [rope](https://github.com/python-rope/rope) ⭐ 2,234 | 🐛 142 | 🌐 Python | 📅 2026-08-25: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,939 | 🐛 173 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
