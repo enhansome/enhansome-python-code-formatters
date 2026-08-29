@@ -12,10 +12,10 @@
             "archived": false,
             "id": 523043277,
             "language": "Rust",
-            "last_commit": "2026-08-28T02:52:09Z",
+            "last_commit": "2026-08-29T02:12:52Z",
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49362
+            "stars": 49375
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -31,7 +31,7 @@
             "last_commit": "2026-08-20T13:01:16Z",
             "owner": "psf",
             "repo": "black",
-            "stars": 41818
+            "stars": 41820
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -44,10 +44,10 @@
             "archived": false,
             "id": 32476524,
             "language": "Python",
-            "last_commit": "2026-08-21T16:05:20Z",
+            "last_commit": "2026-08-28T19:58:01Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13981
+            "stars": 13982
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 303458102,
             "language": "Python",
-            "last_commit": "2026-08-17T13:44:20Z",
+            "last_commit": "2026-08-28T17:59:47Z",
             "owner": "LilSpazJoekp",
             "repo": "docstrfmt",
-            "stars": 43
+            "stars": 44
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -481,7 +481,7 @@
             "last_commit": "2026-08-25T19:30:18Z",
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4113
+            "stars": 4112
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -494,10 +494,10 @@
             "archived": false,
             "id": 400482050,
             "language": "Python",
-            "last_commit": "2026-08-18T20:38:01Z",
+            "last_commit": "2026-08-28T13:21:53Z",
             "owner": "adamchainz",
             "repo": "django-upgrade",
-            "stars": 1233
+            "stars": 1234
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -510,7 +510,7 @@
             "archived": false,
             "id": 261884067,
             "language": "Python",
-            "last_commit": "2026-08-28T03:29:37Z",
+            "last_commit": "2026-08-29T02:41:27Z",
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190
@@ -717,7 +717,7 @@
             "last_commit": "2026-08-28T02:34:55Z",
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16420
+            "stars": 16433
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -733,7 +733,7 @@
             "last_commit": "2026-06-08T07:27:09Z",
             "owner": "comby-tools",
             "repo": "comby",
-            "stars": 2670
+            "stars": 2671
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
         },
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:28:31.464Z",
+    "last_updated": "2026-08-29T02:54:41.271Z",
     "original_repository_info": {
       "archived": false,
       "id": 202137421,
