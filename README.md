@@ -6,10 +6,10 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,481 | 🐛 2,168 | 🌐 Rust | 📅 2026-09-04: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,503 | 🐛 2,175 | 🌐 Rust | 📅 2026-09-05: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
 * [black](https://github.com/python/black) ⭐ 41,828 | 🐛 305 | 🌐 Python | 📅 2026-09-04: uncompromising Python code formatter.
-* [yapf](https://github.com/google/yapf) ⭐ 13,985 | 🐛 418 | 🌐 Python | 📅 2026-08-28: yet another Python code formatter from Google.
-* [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,660 | 🐛 135 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
+* [yapf](https://github.com/google/yapf) ⭐ 13,984 | 🐛 418 | 🌐 Python | 📅 2026-08-28: yet another Python code formatter from Google.
+* [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,659 | 🐛 135 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
 ## UNIX-way formatters
 
@@ -76,7 +76,7 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,514 | 🐛 914 | 🌐 OCaml | 📅 2026-09-04: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,524 | 🐛 906 | 🌐 OCaml | 📅 2026-09-04: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,672 | 🐛 86 | 🌐 OCaml | 📅 2026-06-08: Comby is a tool for searching and changing code structure
 * [rope](https://github.com/python-rope/rope) ⭐ 2,235 | 🐛 146 | 🌐 Python | 📅 2026-09-04: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,940 | 🐛 173 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
@@ -91,9 +91,9 @@ If you need to write your own formatter, these are libraries for you.
 
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
-* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,982 | 🐛 7 | 📅 2026-09-03: tools to generate type annotations.
+* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,983 | 🐛 6 | 📅 2026-09-03: tools to generate type annotations.
 * [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 307 | 🐛 1 | 📅 2026-08-31: tools to generate tests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

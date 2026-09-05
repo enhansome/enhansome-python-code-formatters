@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T21:57:43Z",
-            "open_issues": 2168,
+            "last_commit": "2026-09-05T22:15:23Z",
+            "open_issues": 2175,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49481,
+            "stars": 49503,
             "topics": [
               "linter",
               "pep8",
@@ -83,7 +83,7 @@
             "open_issues": 418,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13985,
+            "stars": 13984,
             "topics": [
               "formatter",
               "google",
@@ -108,7 +108,7 @@
             "open_issues": 135,
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4660,
+            "stars": 4659,
             "topics": [
               "codeformatter",
               "formatter",
@@ -1116,11 +1116,11 @@
             "id": 227803815,
             "language": "OCaml",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-04T00:58:01Z",
-            "open_issues": 914,
+            "last_commit": "2026-09-04T23:54:12Z",
+            "open_issues": 906,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16514,
+            "stars": 16524,
             "topics": [
               "c",
               "go",
@@ -1389,10 +1389,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-03T06:35:43Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1982,
+            "stars": 1983,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:31:47.116Z",
+    "last_updated": "2026-09-05T22:17:59.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
