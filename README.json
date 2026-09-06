@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:15:23Z",
-            "open_issues": 2175,
+            "last_commit": "2026-09-06T21:22:17Z",
+            "open_issues": 2184,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49503,
+            "stars": 49526,
             "topics": [
               "linter",
               "pep8",
@@ -49,10 +49,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-04T06:33:00Z",
-            "open_issues": 305,
+            "open_issues": 308,
             "owner": "psf",
             "repo": "black",
-            "stars": 41828,
+            "stars": 41829,
             "topics": [
               "autopep8",
               "code",
@@ -80,10 +80,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:58:01Z",
-            "open_issues": 418,
+            "open_issues": 419,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13984,
+            "stars": 13985,
             "topics": [
               "formatter",
               "google",
@@ -518,7 +518,7 @@
             "open_issues": 90,
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6948,
+            "stars": 6950,
             "topics": [
               "auto-formatter",
               "cleaner",
@@ -1120,7 +1120,7 @@
             "open_issues": 906,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16524,
+            "stars": 16530,
             "topics": [
               "c",
               "go",
@@ -1154,7 +1154,7 @@
             "open_issues": 86,
             "owner": "comby-tools",
             "repo": "comby",
-            "stars": 2672,
+            "stars": 2674,
             "topics": [
               "c",
               "go",
@@ -1222,7 +1222,7 @@
             "open_issues": 173,
             "owner": "Instagram",
             "repo": "LibCST",
-            "stars": 1940,
+            "stars": 1941,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:17:59.230Z",
+    "last_updated": "2026-09-06T22:21:18.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
