@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T21:39:11Z",
-            "open_issues": 2175,
+            "last_commit": "2026-09-08T22:30:00Z",
+            "open_issues": 2179,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49539,
+            "stars": 49551,
             "topics": [
               "linter",
               "pep8",
@@ -108,7 +108,7 @@
             "open_issues": 135,
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4659,
+            "stars": 4660,
             "topics": [
               "codeformatter",
               "formatter",
@@ -515,7 +515,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T20:30:57Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "PyCQA",
             "repo": "isort",
             "stars": 6951,
@@ -756,11 +756,11 @@
             "id": 400482050,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T18:45:12Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-08T22:29:08Z",
+            "open_issues": 10,
             "owner": "adamchainz",
             "repo": "django-upgrade",
-            "stars": 1235,
+            "stars": 1236,
             "topics": [
               "django"
             ]
@@ -779,7 +779,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T07:27:48Z",
+            "last_commit": "2026-09-08T06:59:22Z",
             "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -809,7 +809,7 @@
             "open_issues": 10,
             "owner": "ilevkivskyi",
             "repo": "com2ann",
-            "stars": 158,
+            "stars": 157,
             "topics": [
               "annotations",
               "python-3-6",
@@ -868,7 +868,7 @@
             "open_issues": 22,
             "owner": "nbQA-dev",
             "repo": "nbQA",
-            "stars": 1204,
+            "stars": 1205,
             "topics": [
               "black",
               "codequality",
@@ -931,8 +931,8 @@
             "id": 135868210,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T18:37:08Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-08T22:28:59Z",
+            "open_issues": 15,
             "owner": "adamchainz",
             "repo": "blacken-docs",
             "stars": 679,
@@ -1120,7 +1120,7 @@
             "open_issues": 907,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16540,
+            "stars": 16550,
             "topics": [
               "c",
               "go",
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:59:31.157Z",
+    "last_updated": "2026-09-08T22:58:05.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
@@ -1454,7 +1454,7 @@
       "open_issues": 2,
       "owner": "life4",
       "repo": "awesome-python-code-formatters",
-      "stars": 388,
+      "stars": 389,
       "topics": [
         "autopep8",
         "awesome",

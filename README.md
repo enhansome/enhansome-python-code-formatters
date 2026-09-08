@@ -6,10 +6,10 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,539 | 🐛 2,175 | 🌐 Rust | 📅 2026-09-07: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,551 | 🐛 2,179 | 🌐 Rust | 📅 2026-09-08: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
 * [black](https://github.com/python/black) ⭐ 41,834 | 🐛 309 | 🌐 Python | 📅 2026-09-04: uncompromising Python code formatter.
 * [yapf](https://github.com/google/yapf) ⭐ 13,985 | 🐛 419 | 🌐 Python | 📅 2026-08-28: yet another Python code formatter from Google.
-* [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,659 | 🐛 135 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
+* [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,660 | 🐛 135 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
 ## UNIX-way formatters
 
@@ -37,7 +37,7 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-* [isort](https://github.com/timothycrosley/isort) ⭐ 6,951 | 🐛 91 | 🌐 Python | 📅 2026-08-27: sorts imports.
+* [isort](https://github.com/timothycrosley/isort) ⭐ 6,951 | 🐛 92 | 🌐 Python | 📅 2026-08-27: sorts imports.
 * [autoflake](https://github.com/myint/autoflake) ⭐ 952 | 🐛 43 | 🌐 Python | 📅 2026-08-23: removes unused imports and unused variables as reported by pyflakes.
 * [reorder-python-imports](https://github.com/asottile/reorder_python_imports) ⭐ 781 | 🐛 1 | 🌐 Python | 📅 2026-08-19: reorders imports.
 * [pycln](https://github.com/hadialqattan/pycln) ⭐ 315 | 🐛 16 | 🌐 Python | 📅 2026-01-13: removes unused imports.
@@ -51,9 +51,9 @@ Formatters for import statements.
 Tools to upgrade to newer versions of Python or a framework.
 
 * [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,112 | 🐛 22 | 🌐 Python | 📅 2026-09-04: upgrades syntax for newer versions of the language.
-* [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,235 | 🐛 11 | 🌐 Python | 📅 2026-09-07: upgrades Django projects.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-09-07: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
-* [com2ann](https://github.com/ilevkivskyi/com2ann) ⭐ 158 | 🐛 10 | 🌐 Python | 📅 2025-06-02: translates type comments to type annotations.
+* [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,236 | 🐛 10 | 🌐 Python | 📅 2026-09-08: upgrades Django projects.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-09-08: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
+* [com2ann](https://github.com/ilevkivskyi/com2ann) ⭐ 157 | 🐛 10 | 🌐 Python | 📅 2025-06-02: translates type comments to type annotations.
 * [auto-walrus](https://github.com/MarcoGorelli/auto-walrus) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2026-09-07: automatically use the walrus operator where possible.
 * [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
 
@@ -61,9 +61,9 @@ Tools to upgrade to newer versions of Python or a framework.
 
 Wrappers for existing code formatters to make them more accessible.
 
-* [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,204 | 🐛 22 | 🌐 Python | 📅 2026-08-31: run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
+* [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,205 | 🐛 22 | 🌐 Python | 📅 2026-08-31: run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
 * [jupyterlab-code-formatter](https://github.com/ryantam626/jupyterlab_code_formatter) ⭐ 906 | 🐛 27 | 🌐 Python | 📅 2026-08-07: code formatter for JupyterLab.
-* [blacken-docs](https://github.com/asottile/blacken-docs) ⭐ 679 | 🐛 16 | 🌐 Python | 📅 2026-09-07: runs `black` on python code blocks in documentation files.
+* [blacken-docs](https://github.com/asottile/blacken-docs) ⭐ 679 | 🐛 15 | 🌐 Python | 📅 2026-09-08: runs `black` on python code blocks in documentation files.
 * [shed](https://github.com/Zac-HD/shed) ⭐ 353 | 🐛 7 | 🌐 Python | 📅 2025-06-05: wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`.
 * [mdsf](https://github.com/hougesen/mdsf) ⭐ 111 | 🐛 40 | 🌐 Rust | 📅 2026-09-01: run python formatters on markdown code blocks.
 * [pyformat](https://github.com/myint/pyformat) ⭐ 92 | 🐛 9 | 🌐 Python | 📅 2024-01-01: wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
@@ -76,7 +76,7 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,540 | 🐛 907 | 🌐 OCaml | 📅 2026-09-04: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,550 | 🐛 907 | 🌐 OCaml | 📅 2026-09-04: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,674 | 🐛 86 | 🌐 OCaml | 📅 2026-06-08: Comby is a tool for searching and changing code structure
 * [rope](https://github.com/python-rope/rope) ⭐ 2,234 | 🐛 148 | 🌐 Python | 📅 2026-09-07: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,941 | 🐛 173 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
@@ -96,4 +96,4 @@ This list doesn't contain tools that generate code, type annotations, comments e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
