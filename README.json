@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:29:10Z",
-            "open_issues": 2186,
+            "last_commit": "2026-09-10T22:44:04Z",
+            "open_issues": 2192,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49565,
+            "stars": 49580,
             "topics": [
               "linter",
               "pep8",
@@ -52,7 +52,7 @@
             "open_issues": 310,
             "owner": "psf",
             "repo": "black",
-            "stars": 41836,
+            "stars": 41840,
             "topics": [
               "autopep8",
               "code",
@@ -80,10 +80,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:58:01Z",
-            "open_issues": 420,
+            "open_issues": 422,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13985,
+            "stars": 13984,
             "topics": [
               "formatter",
               "google",
@@ -167,7 +167,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-07-19T09:50:02Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "ikamensh",
             "repo": "flynt",
             "stars": 732,
@@ -194,7 +194,7 @@
             "open_issues": 39,
             "owner": "PyCQA",
             "repo": "docformatter",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "autoformat",
               "docstring",
@@ -515,10 +515,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T20:30:57Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6952,
+            "stars": 6950,
             "topics": [
               "auto-formatter",
               "cleaner",
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "asottile",
             "repo": "reorder-python-imports",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "linter",
               "pre-commit",
@@ -735,7 +735,7 @@
             "open_issues": 22,
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4112,
+            "stars": 4111,
             "topics": [
               "linter",
               "pre-commit",
@@ -760,7 +760,7 @@
             "open_issues": 10,
             "owner": "adamchainz",
             "repo": "django-upgrade",
-            "stars": 1241,
+            "stars": 1243,
             "topics": [
               "django"
             ]
@@ -779,7 +779,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T06:59:22Z",
+            "last_commit": "2026-09-10T16:42:35Z",
             "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -1114,13 +1114,13 @@
             "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
             "homepage": "https://semgrep.dev",
             "id": 227803815,
-            "language": "OCaml",
+            "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-04T23:54:12Z",
+            "last_commit": "2026-09-10T19:37:34Z",
             "open_issues": 908,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16568,
+            "stars": 16582,
             "topics": [
               "c",
               "go",
@@ -1193,10 +1193,10 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-07T03:17:19Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "python-rope",
             "repo": "rope",
-            "stars": 2234,
+            "stars": 2235,
             "topics": [
               "ast",
               "python",
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:45:31.134Z",
+    "last_updated": "2026-09-10T22:46:22.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
