@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T22:44:04Z",
-            "open_issues": 2192,
+            "last_commit": "2026-09-11T22:47:09Z",
+            "open_issues": 2196,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49580,
+            "stars": 49592,
             "topics": [
               "linter",
               "pep8",
@@ -48,11 +48,11 @@
             "id": 125266328,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:33:00Z",
-            "open_issues": 310,
+            "last_commit": "2026-09-11T06:32:31Z",
+            "open_issues": 312,
             "owner": "psf",
             "repo": "black",
-            "stars": 41840,
+            "stars": 41842,
             "topics": [
               "autopep8",
               "code",
@@ -83,7 +83,7 @@
             "open_issues": 422,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13984,
+            "stars": 13985,
             "topics": [
               "formatter",
               "google",
@@ -194,7 +194,7 @@
             "open_issues": 39,
             "owner": "PyCQA",
             "repo": "docformatter",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "autoformat",
               "docstring",
@@ -1116,11 +1116,11 @@
             "id": 227803815,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-10T19:37:34Z",
-            "open_issues": 908,
+            "last_commit": "2026-09-11T00:01:42Z",
+            "open_issues": 913,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16582,
+            "stars": 16594,
             "topics": [
               "c",
               "go",
@@ -1196,7 +1196,7 @@
             "open_issues": 149,
             "owner": "python-rope",
             "repo": "rope",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "ast",
               "python",
@@ -1222,7 +1222,7 @@
             "open_issues": 173,
             "owner": "Instagram",
             "repo": "LibCST",
-            "stars": 1941,
+            "stars": 1942,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:46:22.377Z",
+    "last_updated": "2026-09-11T22:47:18.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
