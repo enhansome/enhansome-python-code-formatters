@@ -6,8 +6,8 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,630 | 🐛 2,202 | 🌐 Rust | 📅 2026-09-14: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
-* [black](https://github.com/python/black) ⭐ 41,842 | 🐛 322 | 🌐 Python | 📅 2026-09-11: uncompromising Python code formatter.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,640 | 🐛 2,191 | 🌐 Rust | 📅 2026-09-15: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [black](https://github.com/python/black) ⭐ 41,843 | 🐛 320 | 🌐 Python | 📅 2026-09-11: uncompromising Python code formatter.
 * [yapf](https://github.com/google/yapf) ⭐ 13,986 | 🐛 420 | 🌐 Python | 📅 2026-08-28: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,660 | 🐛 135 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
@@ -51,8 +51,8 @@ Formatters for import statements.
 Tools to upgrade to newer versions of Python or a framework.
 
 * [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,112 | 🐛 22 | 🌐 Python | 📅 2026-09-04: upgrades syntax for newer versions of the language.
-* [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,244 | 🐛 10 | 🌐 Python | 📅 2026-09-08: upgrades Django projects.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-09-14: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
+* [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,245 | 🐛 10 | 🌐 Python | 📅 2026-09-08: upgrades Django projects.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-09-15: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 * [com2ann](https://github.com/ilevkivskyi/com2ann) ⭐ 157 | 🐛 10 | 🌐 Python | 📅 2025-06-02: translates type comments to type annotations.
 * [auto-walrus](https://github.com/MarcoGorelli/auto-walrus) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2026-09-14: automatically use the walrus operator where possible.
 * [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
@@ -76,12 +76,12 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,644 | 🐛 919 | 🌐 C | 📅 2026-09-14: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 16,654 | 🐛 920 | 🌐 C | 📅 2026-09-15: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,675 | 🐛 86 | 🌐 OCaml | 📅 2026-06-08: Comby is a tool for searching and changing code structure
-* [rope](https://github.com/python-rope/rope) ⭐ 2,235 | 🐛 150 | 🌐 Python | 📅 2026-09-07: refactoring library.
+* [rope](https://github.com/python-rope/rope) ⭐ 2,236 | 🐛 150 | 🌐 Python | 📅 2026-09-15: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,943 | 🐛 173 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
 * [bowler](https://github.com/facebookincubator/Bowler) ⚠️ Archived: safe code refactoring for modern Python.
-* [refactor](https://github.com/isidentical/refactor) ⭐ 460 | 🐛 22 | 🌐 Python | 📅 2023-12-30: AST-based fragmental source code refactoring toolkit.
+* [refactor](https://github.com/isidentical/refactor) ⭐ 461 | 🐛 22 | 🌐 Python | 📅 2023-12-30: AST-based fragmental source code refactoring toolkit.
 * [importlab](https://github.com/google/importlab) ⚠️ Archived: A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
 * [massedit](https://github.com/elmotec/massedit) ⭐ 116 | 🐛 1 | 🌐 Python | 📅 2025-09-21: edit text files with Python.
 * [autotransform](https://github.com/nathro/AutoTransform) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-01-29: framework for large-scale code modification.
@@ -92,8 +92,8 @@ If you need to write your own formatter, these are libraries for you.
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,984 | 🐛 6 | 📅 2026-09-03: tools to generate type annotations.
-* [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 308 | 🐛 1 | 📅 2026-09-14: tools to generate tests.
+* [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 308 | 🐛 1 | 📅 2026-09-15: tools to generate tests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
