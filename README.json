@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:25:48Z",
-            "open_issues": 2182,
+            "last_commit": "2026-09-20T21:19:37Z",
+            "open_issues": 2196,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49697,
+            "stars": 49707,
             "topics": [
               "linter",
               "pep8",
@@ -52,7 +52,7 @@
             "open_issues": 312,
             "owner": "psf",
             "repo": "black",
-            "stars": 41846,
+            "stars": 41848,
             "topics": [
               "autopep8",
               "code",
@@ -635,7 +635,7 @@
             "open_issues": 1,
             "owner": "hakancelikdev",
             "repo": "unimport",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "formatter",
               "import",
@@ -700,7 +700,7 @@
             "id": 340135607,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-04-23T10:17:49Z",
+            "last_commit": "2026-09-20T08:55:58Z",
             "open_issues": 10,
             "owner": "hakancelikdev",
             "repo": "unexport",
@@ -932,7 +932,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T22:28:59Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "adamchainz",
             "repo": "blacken-docs",
             "stars": 679,
@@ -1120,7 +1120,7 @@
             "open_issues": 927,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16698,
+            "stars": 16704,
             "topics": [
               "c",
               "go",
@@ -1193,7 +1193,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-15T15:59:30Z",
-            "open_issues": 153,
+            "open_issues": 154,
             "owner": "python-rope",
             "repo": "rope",
             "stars": 2237,
@@ -1222,7 +1222,7 @@
             "open_issues": 173,
             "owner": "Instagram",
             "repo": "LibCST",
-            "stars": 1946,
+            "stars": 1947,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
@@ -1421,7 +1421,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-16T16:48:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "cleder",
             "repo": "awesome-python-testing",
             "stars": 308,
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:29:26.101Z",
+    "last_updated": "2026-09-20T22:42:02.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
