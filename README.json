@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:47:17Z",
-            "open_issues": 2187,
+            "last_commit": "2026-10-03T20:19:28Z",
+            "open_issues": 2190,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49882,
+            "stars": 49890,
             "topics": [
               "linter",
               "pep8",
@@ -48,11 +48,11 @@
             "id": 125266328,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:55:28Z",
-            "open_issues": 299,
+            "last_commit": "2026-10-03T23:12:11Z",
+            "open_issues": 288,
             "owner": "psf",
             "repo": "black",
-            "stars": 41860,
+            "stars": 41859,
             "topics": [
               "autopep8",
               "code",
@@ -83,7 +83,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13989,
+            "stars": 13990,
             "topics": [
               "formatter",
               "google",
@@ -105,7 +105,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-20T12:23:40Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "hhatto",
             "repo": "autopep8",
             "stars": 4660,
@@ -536,10 +536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T20:49:28Z",
-            "open_issues": 94,
+            "open_issues": 97,
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6960,
+            "stars": 6961,
             "topics": [
               "auto-formatter",
               "cleaner",
@@ -756,7 +756,7 @@
             "open_issues": 22,
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4117,
+            "stars": 4116,
             "topics": [
               "linter",
               "pre-commit",
@@ -781,7 +781,7 @@
             "open_issues": 11,
             "owner": "adamchainz",
             "repo": "django-upgrade",
-            "stars": 1249,
+            "stars": 1248,
             "topics": [
               "django"
             ]
@@ -800,7 +800,7 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:34:22Z",
+            "last_commit": "2026-10-03T10:52:38Z",
             "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
@@ -1141,7 +1141,7 @@
             "open_issues": 941,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 16843,
+            "stars": 16853,
             "topics": [
               "c",
               "go",
@@ -1175,7 +1175,7 @@
             "open_issues": 86,
             "owner": "comby-tools",
             "repo": "comby",
-            "stars": 2681,
+            "stars": 2680,
             "topics": [
               "c",
               "go",
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:01:50.299Z",
+    "last_updated": "2026-10-03T23:19:34.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
