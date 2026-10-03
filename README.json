@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:56:36Z",
-            "open_issues": 2188,
+            "last_commit": "2026-10-03T00:47:17Z",
+            "open_issues": 2187,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 49881,
+            "stars": 49882,
             "topics": [
               "linter",
               "pep8",
@@ -49,10 +49,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T15:55:28Z",
-            "open_issues": 298,
+            "open_issues": 299,
             "owner": "psf",
             "repo": "black",
-            "stars": 41859,
+            "stars": 41860,
             "topics": [
               "autopep8",
               "code",
@@ -536,7 +536,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T20:49:28Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "PyCQA",
             "repo": "isort",
             "stars": 6960,
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:59:40.998Z",
+    "last_updated": "2026-10-03T05:01:50.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",

@@ -6,8 +6,8 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,881 | 🐛 2,188 | 🌐 Rust | 📅 2026-10-02: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
-* [black](https://github.com/python/black) ⭐ 41,859 | 🐛 298 | 🌐 Python | 📅 2026-10-01: uncompromising Python code formatter.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 49,882 | 🐛 2,187 | 🌐 Rust | 📅 2026-10-03: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [black](https://github.com/python/black) ⭐ 41,860 | 🐛 299 | 🌐 Python | 📅 2026-10-01: uncompromising Python code formatter.
 * [yapf](https://github.com/google/yapf) ⭐ 13,989 | 🐛 427 | 🌐 Python | 📅 2026-10-02: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,660 | 🐛 137 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
@@ -38,7 +38,7 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-* [isort](https://github.com/timothycrosley/isort) ⭐ 6,960 | 🐛 93 | 🌐 Python | 📅 2026-10-01: sorts imports.
+* [isort](https://github.com/timothycrosley/isort) ⭐ 6,960 | 🐛 94 | 🌐 Python | 📅 2026-10-01: sorts imports.
 * [autoflake](https://github.com/myint/autoflake) ⭐ 951 | 🐛 46 | 🌐 Python | 📅 2026-08-23: removes unused imports and unused variables as reported by pyflakes.
 * [reorder-python-imports](https://github.com/asottile/reorder_python_imports) ⭐ 780 | 🐛 1 | 🌐 Python | 📅 2026-09-29: reorders imports.
 * [pycln](https://github.com/hadialqattan/pycln) ⭐ 315 | 🐛 16 | 🌐 Python | 📅 2026-01-13: removes unused imports.
@@ -97,4 +97,4 @@ This list doesn't contain tools that generate code, type annotations, comments e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
