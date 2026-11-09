@@ -6,9 +6,9 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 50,968 | 🐛 2,283 | 🌐 Rust | 📅 2026-11-07: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
-* [black](https://github.com/python/black) ⭐ 42,127 | 🐛 258 | 🌐 Python | 📅 2026-11-04: uncompromising Python code formatter.
-* [yapf](https://github.com/google/yapf) ⭐ 13,986 | 🐛 440 | 🌐 Python | 📅 2026-11-06: yet another Python code formatter from Google.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,116 | 🐛 2,276 | 🌐 Rust | 📅 2026-11-08: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [black](https://github.com/python/black) ⭐ 42,135 | 🐛 265 | 🌐 Python | 📅 2026-11-04: uncompromising Python code formatter.
+* [yapf](https://github.com/google/yapf) ⭐ 13,985 | 🐛 440 | 🌐 Python | 📅 2026-11-06: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,655 | 🐛 144 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
 ## UNIX-way formatters
@@ -28,7 +28,7 @@ Formatters that do only one job and do it well.
 * [no-optional](https://github.com/Kludex/no-optional) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2026-05-01: Replace `Optional[T]` by `Union[T, None]`.
 * [docstrfmt](https://github.com/LilSpazJoekp/docstrfmt) ⭐ 44 | 🐛 12 | 🌐 Python | 📅 2026-11-02: a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.
 * [decrapify](https://github.com/craigds/decrapify) ⚠️ Archived: some scripts that use pybowler.io for refactoring Python code.
-* [formate](https://github.com/python-formate/formate) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-11-05: a wrapper around `isort` and `yapf` with a few custom rules.
+* [formate](https://github.com/python-formate/formate) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-08: a wrapper around `isort` and `yapf` with a few custom rules.
 * [fix8](https://github.com/PeterJCLaw/fix8) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2023-09-17: fixes some Python linting issues found by Flake8.
 * [pydocformatter](https://github.com/pallgeuer/pydocformatter) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-26: rule-based formatter and linter for Python docstrings and comments.
 * [Tornado Async Transformer](https://github.com/zhammer/tornado-async-transformer) ⭐ 0 | 🐛 0 | 📅 2019-12-11: A libcst transformer for updating tornado `@gen.coroutine` syntax to python3.5+ native `async`/`await`.
@@ -38,7 +38,7 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-* [isort](https://github.com/timothycrosley/isort) ⭐ 6,966 | 🐛 91 | 🌐 Python | 📅 2026-11-01: sorts imports.
+* [isort](https://github.com/timothycrosley/isort) ⭐ 6,965 | 🐛 92 | 🌐 Python | 📅 2026-11-01: sorts imports.
 * [autoflake](https://github.com/myint/autoflake) ⭐ 953 | 🐛 55 | 🌐 Python | 📅 2026-11-04: removes unused imports and unused variables as reported by pyflakes.
 * [reorder-python-imports](https://github.com/asottile/reorder_python_imports) ⭐ 779 | 🐛 0 | 🌐 Python | 📅 2026-11-04: reorders imports.
 * [pycln](https://github.com/hadialqattan/pycln) ⭐ 314 | 🐛 13 | 🌐 Python | 📅 2026-11-02: removes unused imports.
@@ -62,7 +62,7 @@ Tools to upgrade to newer versions of Python or a framework.
 
 Wrappers for existing code formatters to make them more accessible.
 
-* [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,208 | 🐛 17 | 🌐 Python | 📅 2026-11-07: run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
+* [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,208 | 🐛 18 | 🌐 Python | 📅 2026-11-07: run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
 * [jupyterlab-code-formatter](https://github.com/ryantam626/jupyterlab_code_formatter) ⭐ 907 | 🐛 27 | 🌐 Python | 📅 2026-08-07: code formatter for JupyterLab.
 * [blacken-docs](https://github.com/asottile/blacken-docs) ⭐ 680 | 🐛 19 | 🌐 Python | 📅 2026-11-04: runs `black` on python code blocks in documentation files.
 * [shed](https://github.com/Zac-HD/shed) ⭐ 353 | 🐛 7 | 🌐 Python | 📅 2025-06-05: wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`.
@@ -77,9 +77,9 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 17,542 | 🐛 980 | 🌐 C | 📅 2026-11-06: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 17,557 | 🐛 991 | 🌐 C | 📅 2026-11-06: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,694 | 🐛 83 | 🌐 OCaml | 📅 2026-11-06: Comby is a tool for searching and changing code structure
-* [rope](https://github.com/python-rope/rope) ⭐ 2,245 | 🐛 187 | 🌐 Python | 📅 2026-11-07: refactoring library.
+* [rope](https://github.com/python-rope/rope) ⭐ 2,246 | 🐛 188 | 🌐 Python | 📅 2026-11-08: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,972 | 🐛 190 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
 * [bowler](https://github.com/facebookincubator/Bowler) ⚠️ Archived: safe code refactoring for modern Python.
 * [refactor](https://github.com/isidentical/refactor) ⭐ 461 | 🐛 22 | 🌐 Python | 📅 2023-12-30: AST-based fragmental source code refactoring toolkit.
@@ -92,9 +92,9 @@ If you need to write your own formatter, these are libraries for you.
 
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
-* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,992 | 🐛 7 | 📅 2026-10-29: tools to generate type annotations.
+* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,992 | 🐛 7 | 📅 2026-11-08: tools to generate type annotations.
 * [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 319 | 🐛 8 | 📅 2026-11-02: tools to generate tests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
