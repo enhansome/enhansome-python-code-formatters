@@ -6,8 +6,8 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,242 | 🐛 2,302 | 🌐 Rust | 📅 2026-11-14: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
-* [black](https://github.com/python/black) ⭐ 42,181 | 🐛 249 | 🌐 Python | 📅 2026-11-14: uncompromising Python code formatter.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,285 | 🐛 2,286 | 🌐 Rust | 📅 2026-11-15: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [black](https://github.com/python/black) ⭐ 42,188 | 🐛 250 | 🌐 Python | 📅 2026-11-16: uncompromising Python code formatter.
 * [yapf](https://github.com/google/yapf) ⭐ 13,985 | 🐛 440 | 🌐 Python | 📅 2026-11-06: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,654 | 🐛 145 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
@@ -17,7 +17,7 @@ Formatters that do only one job and do it well.
 
 * [pyment](https://github.com/dadadel/pyment) ⭐ 955 | 🐛 42 | 🌐 Python | 📅 2024-06-18: formats and generates docstrings.
 * [flynt](https://github.com/ikamensh/flynt) ⭐ 733 | 🐛 7 | 🌐 Rust | 📅 2026-07-19: converts old string literal formatting to f-strings.
-* [docformatter](https://github.com/PyCQA/docformatter) ⭐ 601 | 🐛 23 | 🌐 Python | 📅 2026-11-03: formats docstrings to follow PEP 257.
+* [docformatter](https://github.com/PyCQA/docformatter) ⭐ 601 | 🐛 24 | 🌐 Python | 📅 2026-11-03: formats docstrings to follow PEP 257.
 * [ssort](https://github.com/bwhmather/ssort) ⭐ 402 | 🐛 21 | 🌐 Python | 📅 2026-10-27: sorts and groups classes, functions, and methods.
 * [add-trailing-comma](https://github.com/asottile/add-trailing-comma) ⭐ 373 | 🐛 0 | 🌐 Python | 📅 2026-11-04: adds trailing commas to calls and literals.
 * [eradicate](https://github.com/myint/eradicate) ⭐ 217 | 🐛 8 | 🌐 Python | 📅 2026-07-21: removes commented-out code from Python files.
@@ -26,7 +26,7 @@ Formatters that do only one job and do it well.
 * [kwonly-transformer](https://github.com/Kludex/kwonly-transformer) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2026-05-01: Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
 * [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter) ⭐ 91 | 🐛 15 | 🌐 Python | 📅 2026-11-02: Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 * [no-optional](https://github.com/Kludex/no-optional) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2026-05-01: Replace `Optional[T]` by `Union[T, None]`.
-* [docstrfmt](https://github.com/LilSpazJoekp/docstrfmt) ⭐ 44 | 🐛 9 | 🌐 Python | 📅 2026-11-11: a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.
+* [docstrfmt](https://github.com/LilSpazJoekp/docstrfmt) ⭐ 44 | 🐛 10 | 🌐 Python | 📅 2026-11-15: a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.
 * [decrapify](https://github.com/craigds/decrapify) ⚠️ Archived: some scripts that use pybowler.io for refactoring Python code.
 * [formate](https://github.com/python-formate/formate) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-11-11: a wrapper around `isort` and `yapf` with a few custom rules.
 * [fix8](https://github.com/PeterJCLaw/fix8) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2023-09-17: fixes some Python linting issues found by Flake8.
@@ -38,8 +38,8 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-* [isort](https://github.com/timothycrosley/isort) ⭐ 6,965 | 🐛 96 | 🌐 Python | 📅 2026-11-14: sorts imports.
-* [autoflake](https://github.com/myint/autoflake) ⭐ 954 | 🐛 55 | 🌐 Python | 📅 2026-11-04: removes unused imports and unused variables as reported by pyflakes.
+* [isort](https://github.com/timothycrosley/isort) ⭐ 6,964 | 🐛 88 | 🌐 Python | 📅 2026-11-15: sorts imports.
+* [autoflake](https://github.com/myint/autoflake) ⭐ 955 | 🐛 55 | 🌐 Python | 📅 2026-11-04: removes unused imports and unused variables as reported by pyflakes.
 * [reorder-python-imports](https://github.com/asottile/reorder_python_imports) ⭐ 781 | 🐛 0 | 🌐 Python | 📅 2026-11-04: reorders imports.
 * [pycln](https://github.com/hadialqattan/pycln) ⭐ 315 | 🐛 13 | 🌐 Python | 📅 2026-11-02: removes unused imports.
 * [unimport](https://github.com/hakancelik96/unimport) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2026-10-02: removes unused imports.
@@ -53,7 +53,7 @@ Tools to upgrade to newer versions of Python or a framework.
 
 * [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,124 | 🐛 20 | 🌐 Python | 📅 2026-11-04: upgrades syntax for newer versions of the language.
 * [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,255 | 🐛 12 | 🌐 Python | 📅 2026-11-04: upgrades Django projects.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 189 | 🐛 7 | 🌐 Python | 📅 2026-11-14: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-11-14: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 * [com2ann](https://github.com/ilevkivskyi/com2ann) ⭐ 157 | 🐛 10 | 🌐 Python | 📅 2025-06-02: translates type comments to type annotations.
 * [auto-walrus](https://github.com/MarcoGorelli/auto-walrus) ⭐ 132 | 🐛 4 | 🌐 Python | 📅 2026-11-09: automatically use the walrus operator where possible.
 * [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
@@ -77,8 +77,8 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 17,679 | 🐛 1,000 | 🌐 C | 📅 2026-11-13: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
-* [comby](https://github.com/comby-tools/comby) ⭐ 2,695 | 🐛 83 | 🌐 OCaml | 📅 2026-11-06: Comby is a tool for searching and changing code structure
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 17,702 | 🐛 1,001 | 🌐 C | 📅 2026-11-16: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [comby](https://github.com/comby-tools/comby) ⭐ 2,692 | 🐛 83 | 🌐 OCaml | 📅 2026-11-06: Comby is a tool for searching and changing code structure
 * [rope](https://github.com/python-rope/rope) ⭐ 2,247 | 🐛 183 | 🌐 Python | 📅 2026-11-15: refactoring library.
 * [libcst](https://github.com/Instagram/LibCST) ⭐ 1,974 | 🐛 190 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
 * [bowler](https://github.com/facebookincubator/Bowler) ⚠️ Archived: safe code refactoring for modern Python.
@@ -97,4 +97,4 @@ This list doesn't contain tools that generate code, type annotations, comments e
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
