@@ -15,11 +15,11 @@
             "id": 523043277,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:52:26Z",
-            "open_issues": 2288,
+            "last_commit": "2026-11-20T00:57:29Z",
+            "open_issues": 2305,
             "owner": "astral-sh",
             "repo": "ruff",
-            "stars": 51267,
+            "stars": 51316,
             "topics": [
               "linter",
               "pep8",
@@ -48,11 +48,11 @@
             "id": 125266328,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:59:17Z",
-            "open_issues": 257,
+            "last_commit": "2026-11-19T22:15:40Z",
+            "open_issues": 255,
             "owner": "psf",
             "repo": "black",
-            "stars": 42193,
+            "stars": 42194,
             "topics": [
               "autopep8",
               "code",
@@ -108,7 +108,7 @@
             "open_issues": 145,
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4654,
+            "stars": 4653,
             "topics": [
               "codeformatter",
               "formatter",
@@ -140,7 +140,7 @@
             "open_issues": 42,
             "owner": "dadadel",
             "repo": "pyment",
-            "stars": 955,
+            "stars": 954,
             "topics": [
               "developer-tools",
               "development",
@@ -170,7 +170,7 @@
             "open_issues": 7,
             "owner": "ikamensh",
             "repo": "flynt",
-            "stars": 733,
+            "stars": 732,
             "topics": [
               "linter",
               "python"
@@ -194,7 +194,7 @@
             "open_issues": 26,
             "owner": "PyCQA",
             "repo": "docformatter",
-            "stars": 601,
+            "stars": 600,
             "topics": [
               "autoformat",
               "docstring",
@@ -220,7 +220,7 @@
             "open_issues": 21,
             "owner": "bwhmather",
             "repo": "ssort",
-            "stars": 402,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
@@ -536,10 +536,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T20:20:04Z",
-            "open_issues": 89,
+            "open_issues": 93,
             "owner": "PyCQA",
             "repo": "isort",
-            "stars": 6966,
+            "stars": 6965,
             "topics": [
               "auto-formatter",
               "cleaner",
@@ -572,7 +572,7 @@
             "open_issues": 57,
             "owner": "PyCQA",
             "repo": "autoflake",
-            "stars": 955,
+            "stars": 954,
             "topics": [
               "formatter",
               "hacktoberfest",
@@ -599,7 +599,7 @@
             "open_issues": 0,
             "owner": "asottile",
             "repo": "reorder-python-imports",
-            "stars": 781,
+            "stars": 780,
             "topics": [
               "linter",
               "pre-commit",
@@ -625,7 +625,7 @@
             "open_issues": 13,
             "owner": "hadialqattan",
             "repo": "pycln",
-            "stars": 315,
+            "stars": 314,
             "topics": [
               "cli-app",
               "cross-platform",
@@ -756,7 +756,7 @@
             "open_issues": 20,
             "owner": "asottile",
             "repo": "pyupgrade",
-            "stars": 4125,
+            "stars": 4126,
             "topics": [
               "linter",
               "pre-commit",
@@ -800,8 +800,8 @@
             "id": 261884067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T20:14:17Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-19T20:34:45Z",
+            "open_issues": 8,
             "owner": "browniebroke",
             "repo": "django-codemod",
             "stars": 190,
@@ -889,7 +889,7 @@
             "open_issues": 20,
             "owner": "nbQA-dev",
             "repo": "nbQA",
-            "stars": 1210,
+            "stars": 1209,
             "topics": [
               "black",
               "codequality",
@@ -926,7 +926,7 @@
             "open_issues": 27,
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
-            "stars": 908,
+            "stars": 907,
             "topics": [
               "autopep8",
               "black",
@@ -956,7 +956,7 @@
             "open_issues": 19,
             "owner": "adamchainz",
             "repo": "blacken-docs",
-            "stars": 680,
+            "stars": 679,
             "topics": [
               "black",
               "docs",
@@ -981,7 +981,7 @@
             "open_issues": 7,
             "owner": "Zac-HD",
             "repo": "shed",
-            "stars": 354,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
@@ -1137,11 +1137,11 @@
             "id": 227803815,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-19T00:02:21Z",
-            "open_issues": 1002,
+            "last_commit": "2026-11-20T00:02:00Z",
+            "open_issues": 1005,
             "owner": "semgrep",
             "repo": "semgrep",
-            "stars": 17812,
+            "stars": 17833,
             "topics": [
               "c",
               "go",
@@ -1176,7 +1176,7 @@
             "open_issues": 84,
             "owner": "comby-tools",
             "repo": "comby",
-            "stars": 2692,
+            "stars": 2691,
             "topics": [
               "c",
               "go",
@@ -1218,7 +1218,7 @@
             "open_issues": 181,
             "owner": "python-rope",
             "repo": "rope",
-            "stars": 2248,
+            "stars": 2247,
             "topics": [
               "ast",
               "python",
@@ -1244,7 +1244,7 @@
             "open_issues": 191,
             "owner": "Instagram",
             "repo": "LibCST",
-            "stars": 1975,
+            "stars": 1974,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:31.464Z"
@@ -1286,7 +1286,7 @@
             "open_issues": 22,
             "owner": "isidentical",
             "repo": "refactor",
-            "stars": 461,
+            "stars": 460,
             "topics": [
               "ast",
               "python",
@@ -1329,7 +1329,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-28T00:36:08Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "elmotec",
             "repo": "massedit",
             "stars": 117,
@@ -1414,7 +1414,7 @@
             "open_issues": 7,
             "owner": "typeddjango",
             "repo": "awesome-python-typing",
-            "stars": 1993,
+            "stars": 1992,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:59:49.138Z",
+    "last_updated": "2026-11-20T01:53:39.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Python code formatters",
@@ -1476,7 +1476,7 @@
       "open_issues": 2,
       "owner": "life4",
       "repo": "awesome-python-code-formatters",
-      "stars": 388,
+      "stars": 387,
       "topics": [
         "autopep8",
         "awesome",
