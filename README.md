@@ -6,8 +6,8 @@ A curated list of awesome Python code formatters
 
 Formatters that take care of all your code.
 
-* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,572 | 🐛 2,324 | 🌐 Rust | 📅 2026-11-27: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
-* [black](https://github.com/python/black) ⭐ 42,218 | 🐛 278 | 🌐 Python | 📅 2026-11-25: uncompromising Python code formatter.
+* [ruff](https://github.com/astral-sh/ruff) ⭐ 51,477 | 🐛 2,326 | 🌐 Rust | 📅 2026-11-28: fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
+* [black](https://github.com/python/black) ⭐ 42,223 | 🐛 281 | 🌐 Python | 📅 2026-11-27: uncompromising Python code formatter.
 * [yapf](https://github.com/google/yapf) ⭐ 13,990 | 🐛 441 | 🌐 Python | 📅 2026-11-20: yet another Python code formatter from Google.
 * [autopep8](https://github.com/hhatto/autopep8) ⭐ 4,655 | 🐛 145 | 🌐 Python | 📅 2026-07-20: format Python code to conform to the PEP 8 style guide.
 
@@ -53,7 +53,7 @@ Tools to upgrade to newer versions of Python or a framework.
 
 * [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,123 | 🐛 20 | 🌐 Python | 📅 2026-11-04: upgrades syntax for newer versions of the language.
 * [django-upgrade](https://github.com/adamchainz/django-upgrade) ⭐ 1,256 | 🐛 12 | 🌐 Python | 📅 2026-11-25: upgrades Django projects.
-* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2026-11-27: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
+* [django-codemod](https://github.com/browniebroke/django-codemod) ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2026-11-27: upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 * [com2ann](https://github.com/ilevkivskyi/com2ann) ⭐ 158 | 🐛 10 | 🌐 Python | 📅 2025-06-02: translates type comments to type annotations.
 * [auto-walrus](https://github.com/MarcoGorelli/auto-walrus) ⭐ 132 | 🐛 4 | 🌐 Python | 📅 2026-11-23: automatically use the walrus operator where possible.
 * [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
@@ -64,7 +64,7 @@ Wrappers for existing code formatters to make them more accessible.
 
 * [nbQA](https://github.com/nbQA-dev/nbQA) ⭐ 1,210 | 🐛 20 | 🌐 Python | 📅 2026-11-23: run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
 * [jupyterlab-code-formatter](https://github.com/ryantam626/jupyterlab_code_formatter) ⭐ 907 | 🐛 27 | 🌐 Python | 📅 2026-08-07: code formatter for JupyterLab.
-* [blacken-docs](https://github.com/asottile/blacken-docs) ⭐ 679 | 🐛 19 | 🌐 Python | 📅 2026-11-04: runs `black` on python code blocks in documentation files.
+* [blacken-docs](https://github.com/asottile/blacken-docs) ⭐ 679 | 🐛 20 | 🌐 Python | 📅 2026-11-04: runs `black` on python code blocks in documentation files.
 * [shed](https://github.com/Zac-HD/shed) ⭐ 352 | 🐛 7 | 🌐 Python | 📅 2025-06-05: wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`.
 * [mdsf](https://github.com/hougesen/mdsf) ⭐ 112 | 🐛 42 | 🌐 Rust | 📅 2026-11-10: run python formatters on markdown code blocks.
 * [pyformat](https://github.com/myint/pyformat) ⭐ 92 | 🐛 9 | 🌐 Python | 📅 2024-01-01: wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
@@ -77,10 +77,10 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 17,996 | 🐛 1,014 | 🌐 C | 📅 2026-11-27: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
+* [semgrep](https://github.com/returntocorp/semgrep) ⭐ 18,022 | 🐛 1,014 | 🌐 C | 📅 2026-11-27: like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 * [comby](https://github.com/comby-tools/comby) ⭐ 2,692 | 🐛 84 | 🌐 OCaml | 📅 2026-11-06: Comby is a tool for searching and changing code structure
 * [rope](https://github.com/python-rope/rope) ⭐ 2,247 | 🐛 194 | 🌐 Python | 📅 2026-11-23: refactoring library.
-* [libcst](https://github.com/Instagram/LibCST) ⭐ 1,975 | 🐛 191 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
+* [libcst](https://github.com/Instagram/LibCST) ⭐ 1,974 | 🐛 192 | 🌐 Python | 📅 2026-08-11: parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
 * [bowler](https://github.com/facebookincubator/Bowler) ⚠️ Archived: safe code refactoring for modern Python.
 * [refactor](https://github.com/isidentical/refactor) ⭐ 460 | 🐛 22 | 🌐 Python | 📅 2023-12-30: AST-based fragmental source code refactoring toolkit.
 * [importlab](https://github.com/google/importlab) ⚠️ Archived: A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
@@ -92,9 +92,9 @@ If you need to write your own formatter, these are libraries for you.
 
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
-* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,992 | 🐛 8 | 📅 2026-11-25: tools to generate type annotations.
-* [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 322 | 🐛 7 | 📅 2026-11-25: tools to generate tests.
+* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) ⭐ 1,992 | 🐛 7 | 📅 2026-11-27: tools to generate type annotations.
+* [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) ⭐ 322 | 🐛 8 | 📅 2026-11-25: tools to generate tests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
